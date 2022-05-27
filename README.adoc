@@ -1,0 +1,8 @@
+=== Thatsapp
+A messenger client, like WhatsApp built with Kotlin and Jetpack Compose
+
+=== Getting started
+Click on the drawer icon at the top left and select a user name and profile picture.
+Then confirm with Save.
+The username must be unique for both chat partners.
+Then click on the blue button to select an available contact and start chatting.
